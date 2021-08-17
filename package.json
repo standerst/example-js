@@ -1,0 +1,24 @@
+{
+  "name": "bmi-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/standerst/example-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/standerst/example-js/issues"
+  },
+  "homepage": "https://github.com/standerst/example-js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^6.12.1"
+  }
+}
